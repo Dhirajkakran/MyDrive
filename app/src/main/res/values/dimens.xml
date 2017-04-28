@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    
+        <dimen name="appButtonPaddingLeft">8dip</dimen>
+    <dimen name="appButtonPaddingTop">1dip</dimen>
+    <dimen name="appButtonPaddingRight">8dip</dimen>
+    <dimen name="appButtonPaddingButtom">5dip</dimen>
+    <dimen name="editImageWeidht">30dip</dimen>
+    <dimen name="editImageHeight">30dip</dimen>
+</resources>

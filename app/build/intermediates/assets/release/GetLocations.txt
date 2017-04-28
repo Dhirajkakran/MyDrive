@@ -1,0 +1,48 @@
+{
+    "Message": "Get locations successfully",
+    "IsSuccess": true,
+    "Locations": [
+        {
+            "LocationID": 1,
+            "Name": "Noida Sector-15",
+            "Latitude": "28.583653",
+            "Longitde": "77.307526",
+            "State": "UP"
+        },
+        {
+            "LocationID": 2,
+            "Name": "Noida Sectore-63",
+            "Latitude": "12455.67",
+            "Longitde": "345656.67",
+            "State": "UP"
+        },
+        {
+            "LocationID": 2,
+            "Name": "Noida Sectore-12",
+            "Latitude": "28.596249",
+            "Longitde": "77.339621",
+            "State": "UP"
+        },
+        {
+            "LocationID": 2,
+            "Name": "Noida Sectore-50",
+            "Latitude": "28.573405",
+            "Longitde": "77.371203",
+            "State": "UP"
+        },
+        {
+            "LocationID": 2,
+            "Name": "Noida Sectore-58",
+            "Latitude": "28.606751",
+            "Longitde": "77.359719",
+            "State": "UP"
+        },
+        {
+            "LocationID": 2,
+            "Name": "Noida Sectore-62",
+            "Latitude": "28.609209",
+            "Longitde": "77.348204",
+            "State": "UP"
+        }
+    ]
+}

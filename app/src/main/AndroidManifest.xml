@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ogadrive"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="18" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <permission
+        android:name="com.example.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission android:name="com.example.gcm.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="com.example.gcm.permission.C2D_MESSAGE" />
+
+
+    <!--
+     The following two permissions are not required to use
+     Google Maps Android API v2, but are recommended.
+
+
+
+
+
+
+
+
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name="com.example.volley.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ogadrive.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.StartUpActivity"
+            android:label="@string/title_activity_start_up" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.VerificationCodeActivity"
+            android:label="@string/title_activity_verification" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCkzBuh9qekQjMAf0HExzQkQHMuLKCw3g8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.example.ogadrive.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.HomeActivity2"
+            android:theme="@style/AppBaseTheme"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.VehicleCategoryActivity"
+            android:label="@string/title_activity_vehicle_category"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.Transparent" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.DropLocationSelectionActivity"
+            android:label="@string/title_activity_drop_location_selection" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.RideEstimateActivity"
+            android:label="@string/title_activity_ride_estimate" >
+        </activity>
+
+        <activity
+            android:name="com.example.ogadrive.RateUsActivity"
+            android:label="@string/title_activity_rate_us"
+            android:theme="@style/Theme.Transparent" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.RateCardActivity"
+            android:label="@string/title_activity_rate_card"
+            android:theme="@style/Theme.Transparent" >
+        </activity>
+        <activity
+            android:name="com.example.ogadrive.HistoryDetailsActivity"
+            android:label="@string/title_activity_history_details"
+             android:theme="@style/Theme.Transparent" >
+        </activity>
+
+        <service android:name="com.example.services.LocationUpdateService_2" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <category android:name="com.example.gcm" />
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.example.services.MyGcmListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.example.services.MyInstanceIDListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID"/>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

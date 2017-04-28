@@ -1,0 +1,12 @@
+{
+    "Message": "Booking successfully",
+    "IsSuccess": true,
+    "BookingDateTime": "1432485918",
+    "BookingID": 3,
+    "DistanceKM": 9.5,
+    "DropPlaceID": 1,
+    "Fare": 150,
+    "PickupPlaceID": 2,
+    "Status": "Pending",
+    "UserID": 2
+}

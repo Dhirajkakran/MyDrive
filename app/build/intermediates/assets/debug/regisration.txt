@@ -1,0 +1,8 @@
+{   
+    "IsSuccess":true,
+    "Message":"Successfully Registerd",
+    "UserID":1,
+    "IsLoggedIn":true,
+    "Token":"517457901b0d4767b8798c5a0eed062b",
+    
+}

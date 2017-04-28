@@ -1,0 +1,241 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     
+    tools:context=".RateCardActivity"
+    android:orientation="vertical"
+    
+    android:layout_gravity="center"
+    android:padding="10dip"
+     >
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="20dip"
+    android:background="@drawable/app_background"
+    
+    >
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="20dip"
+  
+    
+    >
+    <TextView android:id="@+id/txtCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="BOOKING HISTORY"
+        android:textColor="#000000"/>
+    
+    
+</LinearLayout>
+    <TextView android:id="@+id/txtCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:background="#000000"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="10dip"
+       android:textColor="#000000" />
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="BookingID"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtBookingID"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="100"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="PickupLocation"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtPickupLocation"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="18.5"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="DropLocation"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtDropLocation"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="2"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="Fare"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtFare"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="2"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="DistanceKM"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtDistanceKM"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="2"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+
+ <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="Status"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtStatus"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="2"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+ 
+  <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="BookingDateTime"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtBookingDateTime"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="2"
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+ 
+  
+
+</LinearLayout>
+
+<Button android:id="@+id/btnOk"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="OK"
+    android:textColor="#000000"
+    android:background="@drawable/btn_background"
+    android:layout_margin="10dip"
+    android:layout_gravity="center_horizontal"
+    
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+    />
+</LinearLayout>
+</LinearLayout>
+<!-- From: file:/D:/Projects/anurag/Suraj/studio/OgaDrive/app/src/main/res/layout/activity_history_details.xml -->

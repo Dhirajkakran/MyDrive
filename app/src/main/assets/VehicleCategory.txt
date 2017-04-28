@@ -1,0 +1,16 @@
+{
+    "Message": "Get vehicle categories successfully",
+    "IsSuccess": true,
+    "VehichleCategories": 
+     [
+        {
+            "VehichleID": 1,
+            "Name": "Sedan",
+            "RatePerKM": 18.5,
+            "BaseFare": 100,
+            "WaitPerMinute": 2,
+            "Description": "Indogo Prise",
+            "Currency": "INR"
+        }
+    ]
+}

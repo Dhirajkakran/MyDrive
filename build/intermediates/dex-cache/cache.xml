@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-bd3a78ca6487c92ff3c53a7e85757add29123d22.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8d38e2676da31c12036551715297d6b473e73d50.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-746f4896db87f97a1e4624b7f9731546c7a81fc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-51f5338e2d645b31d9625e49cd9ad93593d44567.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-addb0f17852c6789d64e611604212ba46f3adc6c.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-ccacf098bcf97e7810cd58c83cfd698b59ee7128.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-1e15b1da2aa8476b8a4492f2c0a838f158624de6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-52e22caafabd3fbb6fbd0f289f9b87abc84384a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-8e3d929776c3de50f4e7cb9c47d4139c1f497e6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-64ca9b3e175e4cc0eac5ac2b91fa3cb19504ffd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-15fbd904698e3af1c7176624d185d02990f94393.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-7e4072c0f9b60eb75a3d5bb2460ed7ef852c4c2a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-76158a579ad4cb33908573f75cf7c35060ead7f2.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-a4a2b83093f923e646b253b9a7e5a850b7e53fdd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-f00248e13a32674e7097587d1925c21a644c8391.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-916a8d5ae5bf1a6b51aca8ce3662a590fae89efd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-78368647822ae84a19b846985d404a59675df845.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-fd7fb0493e1e83c00b4cec043fec60ac64a7d5e5.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-62b55ba166ef79b91245480ad1485cd3cd738764.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-dbb99382508e50d0a3b6578dcc79067632914ad8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-efe3a15036b4d2fcc212c5e4465d3f403ef206bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-be489ac36795c65af06161c0e8e0123db59473ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-5202952aafa4c508e4ba59af81a0ba0f50ba71dd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-90b532bab6d96592ea2490c2eb15a1fc10f09402.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-467b8756d7dbad3abae1c4f13262b85bf6e3b89e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-865842135baa6e4bca94c25f9096700431df4504.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-28dabe62ebdf508d0222478a7bce8cdec5a6c775.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-1542ab231bc544a8089ace9be11634f65f604d1b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-c34e012d1c289d0712ee6b05247b50df8cc66b38.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-83a223dfc73208a8514a5c4f6ecf19e0020f68a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-187ff3130ab80cc485e2b35ea7602d23de878857.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-921d85c57fcaa3007ac36a6b578fcd414d5431c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7d870e70dc19e1f380224d77d04021a6dba29672.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-607c375e1cc7b280db816d0d89ba12f7f4383d0b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-7d9b6895cd2bcf4a4def545fca69d2eb7537fa52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-cb387933ab8c97d1b5f90654c54cd40ebc14a8a4.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-62af3b0ccd0db876b1a9348ee454006ec9f2bc95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-3153a2a984f6c2e63db7ce7ef6da92dc61320438.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-96198a9b992a1f3650de926596feffaedf0b192f.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-0ab53da34a3e6f873b1e0a789655b6201fe6aaf5.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-4c5a710d2244456b2f2522eadeab1175bdfaebb6.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-be59984904e9486a27eb2cca931b268566ecfe4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\volley-f83d28bb7da5582604651cfdd72d789a378490c8.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-260a5f1b92a7814a3187af1d07f78e34cc24d303.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-6a36b0808c4ee062e2d6e6c4788be3548323ba3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-2bf8469435c1c18e913133cdbd8e627529f74f27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-28a257dc861ccb0570874cb2f85115a3e683578a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\volley-b77156852a162a710e33df18c6869014d1af63ce.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-f1fc7981ff8ac8e40f3b8a81448350945dc77200.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-d853a85ba00ff336b195dd7e3a2c83eb290ef5ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-33a76f4c1db306186012d062cda5dd1e77a89833.jar" />
+    </item>
+    <item
+        jar="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Footkar\AndroidStudioProjects\OgaDrive\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7b8f15cd68a331828ba682bcd6d0c5b3e6fa81d0.jar" />
+    </item>
+    <item
+        jar="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\Projects\anurag\Suraj\studio\OgaDrive\app\build\intermediates\pre-dexed\debug\classes-f7c0f87c502d627772fee61b3c02c7ff9549f9d6.jar" />
+    </item>
+
+</items>

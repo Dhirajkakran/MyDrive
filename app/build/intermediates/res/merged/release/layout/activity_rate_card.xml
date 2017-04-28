@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     
+    tools:context=".RateCardActivity"
+    android:orientation="vertical"
+    android:background="@color/background"
+    android:layout_gravity="center"
+     >
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="20dip"
+    
+    >
+    <TextView android:id="@+id/txtCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="SEDAN"
+        android:textColor="#000000"/>
+    <TextView android:id="@+id/txtDescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="#000000"
+        android:text="Description"/>
+    
+</LinearLayout>
+    <TextView android:id="@+id/txtCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:background="#000000"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="10dip"
+       android:textColor="#000000" />
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <TextView android:id="@+id/txtFareBreakUps"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Fare BreakUps"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="Base"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtBaseFare"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text=""
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="Rate Per KM"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtRatePerKM"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text=""
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+    
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dip"
+     
+    
+    >
+    <TextView android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text="Wait"
+    android:textColor="#000000"/>
+     <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:textColor="#000000"
+    android:text=":"/>
+      <TextView 
+          android:id="@+id/txtWaitCost"
+          android:layout_width="0dip"
+    android:layout_height="wrap_content"
+    android:layout_weight=".4"
+    android:text=""
+    android:gravity="center"
+    android:textColor="#000000"/>
+    </LinearLayout>
+</LinearLayout>
+
+<Button android:id="@+id/btnOk"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="OK"
+    android:textColor="#000000"
+    android:background="@drawable/btn_background"
+    android:layout_margin="10dip"
+    android:layout_gravity="center_horizontal"
+    
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+    />
+</LinearLayout>
+<!-- From: file:/D:/Projects/anurag/Suraj/studio/OgaDrive/app/src/main/res/layout/activity_rate_card.xml -->

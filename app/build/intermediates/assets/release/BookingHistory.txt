@@ -1,0 +1,19 @@
+{
+    "Message": "Get booking history successfully",
+    "IsSuccess": true,
+    "UserID": 2,
+    "UserName": "Rahul Sing",
+    "BookingHistory": 
+    [
+        
+        {
+            "BookingID": 3,
+            "PickupLocation": "Noida Sectore-63",
+            "DropLocation": "Noida Sector-15",
+            "Fare": 150,
+            "DistanceKM": 9.5,
+            "Status": "Pending",
+            "BookingDateTime": "1432485918"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OgaDrive Driver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_start_up">StartUpActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_verification">VerificationActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+    <string name="gcm_defaultSenderId">11601833604</string>
+
+    <string-array name="Oga_options_array">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Book Vehicle</item>
+        <item>History</item>
+        <item>Emergency Contact</item>
+        <item>Support</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="title_activity_vehicle_category">VehicleCategoryActivity</string>
+    <string name="title_activity_drop_location_selection">DropLocationSelectionActivity</string>
+    <string name="title_activity_ride_estimate">RideEstimateActivity</string>
+
+    <color name="background">#C9C1A9</color>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="internet_not_access">Please connect to Internet</string>
+    <string name="title_activity_rate_us">RateUsActivity</string>
+    <string name="title_activity_rate_card">RateCardActivity</string>
+    <string name="title_activity_history_details">HistoryDetailsActivity</string>
+
+</resources>
